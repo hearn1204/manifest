@@ -3,6 +3,6 @@
     
     <default revision="main" remote="github" sync-j="4" />
     
-    <project path="repo1" name="hearn1204/repo1" revision="main" />
-    <project path="repo2" name="hearn1204/repo2" revision="main" />
+    <project path="hearn1204/repo001" name="hearn1204/repo001" revision="main" />
+    <project path="hearn1204/repo002" name="hearn1204/repo002" revision="main" />
 </manifest>
