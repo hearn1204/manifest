@@ -1,8 +1,8 @@
 <manifest>
-    <remote name="github" fetch="git@github.com:hearn1204/" />
-
+    <remote name="github" fetch="https://github.com/hearn1204/" />
+    
     <default revision="main" remote="github" sync-j="4" />
-
+    
     <project path="repo1" name="hearn1204/repo1" revision="main" />
     <project path="repo2" name="hearn1204/repo2" revision="main" />
 </manifest>
